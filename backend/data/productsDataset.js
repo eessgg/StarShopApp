@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Cloud Pastel Knitted Sweater",
     image: "/images/sweater.jpg",
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "2",
     name: "Lemon Button Up Shirt ",
     image: "/images/top.png",
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: "3",
     name: "Cropped Faux Leather Moto Jacket ",
     image: "/images/jacket.png",
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "4",
     name: "Shrug On Cardigan",
     image: "/images/cardigan.png",
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "5",
     name: "Mini Buckle Crossbody Bag",
     image: "/images/bag.png",
     description:
